@@ -2,8 +2,6 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        //System.out.println(findNb(1071225));
-       // System.out.println(Long.MAX_VALUE);
         System.out.println(findNb(2007160912225594225L));
         System.out.println(findSum(53230));
     }
